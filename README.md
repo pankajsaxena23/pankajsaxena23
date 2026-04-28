@@ -21,9 +21,9 @@
 
 ## 🚀 Projects
 <!-- Replace with your actual repositories -->
-- 🔹 Project 1 – Short description  
-- 🔹 Project 2 – Short description  
-- 🔹 Project 3 – Short description  
+- 🔹 Portfolio –> A responsive website built using HTML & CSS to showcase my skills and projects. 
+- 🔹 Automatic-Email-Sender –> A Python script that automatically sends emails using SMTP based on predefined inputs or triggers.  
+- 🔹 Tic-Tac-Toe –> A simple interactive game built using programming logic where two players can play and win based on strategy.  
 
 ---
 
