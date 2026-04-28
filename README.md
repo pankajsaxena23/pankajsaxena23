@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pankaj Saxena</h1>
+<h3 align="center">💻 Developer | 🚀 Tech Enthusiast</h3>
 
-<!--
-**pankajsaxena23/pankajsaxena23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 💻 I enjoy working on programming and development
+- 🌱 Currently learning and improving my skills
+- 🤝 Open to collaboration and learning opportunities
+- ⚡ Always curious about new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+<p>
+  <!-- Edit this based on your actual skills -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git" />
+</p>
+
+---
+
+## 🚀 Projects
+<!-- Replace with your actual repositories -->
+- 🔹 Project 1 – Short description  
+- 🔹 Project 2 – Short description  
+- 🔹 Project 3 – Short description  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajsaxena23&show_icons=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+- GitHub: https://github.com/pankajsaxena23
+- Email: [your email here]
+
+---
+
+⭐️ From [Pankaj Saxena](https://github.com/pankajsaxena23)
