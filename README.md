@@ -14,7 +14,7 @@
 ## 🛠️ Skills
 <p>
   <!-- Edit this based on your actual skills -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js" />
 </p>
 
 ---
