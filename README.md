@@ -36,7 +36,7 @@
 
 ## 🌐 Connect With Me
 - GitHub: https://github.com/pankajsaxena23
-- Email: [your email here]
+- Email: [mailto:pankajsaxena.work23@gmail.com]
 
 ---
 
