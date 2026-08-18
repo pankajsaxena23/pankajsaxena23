@@ -1,43 +1,64 @@
 <h1 align="center">Hi 👋, I'm Pankaj Saxena</h1>
 <h3 align="center">💻 Developer | 🚀 Tech Enthusiast</h3>
 
+<p align="center">
+  <a href="https://github.com/pankajsaxena23">
+    <img src="https://img.shields.io/github/followers/pankajsaxena23?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/pankajsaxena23?tab=repositories">
+    <img src="https://img.shields.io/github/stars/pankajsaxena23?affiliations=OWNER&label=Total%20Stars&style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
-- 💻 I enjoy working on programming and development
-- 🌱 Currently learning and improving my skills
-- 🤝 Open to collaboration and learning opportunities
-- ⚡ Always curious about new technologies
+
+* 💻 I enjoy working on programming and development
+* 🌱 Currently learning and improving my skills
+* 🤝 Open to collaboration and learning opportunities
+* ⚡ Always curious about new technologies
 
 ---
 
 ## 🛠️ Skills
+
 <p>
-  <!-- Edit this based on your actual skills -->
   <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js" />
 </p>
 
 ---
 
 ## 🚀 Projects
-<!-- Replace with your actual repositories -->
-- 🔹 Portfolio –> A responsive website built using HTML & CSS to showcase my skills and projects. 
-- 🔹 Automatic-Email-Sender –> A Python script that automatically sends emails using SMTP based on predefined inputs or triggers.  
-- 🔹 Tic-Tac-Toe –> A simple interactive game built using programming logic where two players can play and win based on strategy.  
+
+* 🔹 **Portfolio** – A responsive website built using HTML & CSS to showcase my skills and projects.
+* 🔹 **Automatic Email Sender** – A Python script that automatically sends emails using SMTP.
+* 🔹 **Tic-Tac-Toe** – A simple interactive game built using programming logic.
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajsaxena23&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajsaxena23&show_icons=true&theme=default" />
+</p>
+
+---
+
+## ⭐ Featured Repository
+
+<p align="center">
+  <a href="https://github.com/pankajsaxena23">
+    <img src="https://img.shields.io/github/stars/pankajsaxena23?affiliations=OWNER&style=for-the-badge&logo=github&label=GitHub%20Stars" />
+  </a>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-- GitHub: https://github.com/pankajsaxena23
-- Email: pankajsaxena.work23@gmail.com
 
+* GitHub: https://github.com/pankajsaxena23
+* Email: [pankajsaxena.work23@gmail.com](mailto:pankajsaxena.work23@gmail.com)
 
 ---
 
