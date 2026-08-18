@@ -5,8 +5,8 @@
   <a href="https://github.com/pankajsaxena23">
     <img src="https://img.shields.io/github/followers/pankajsaxena23?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/pankajsaxena23?tab=repositories">
-    <img src="https://img.shields.io/github/stars/pankajsaxena23?affiliations=OWNER&label=Total%20Stars&style=for-the-badge" />
+  <a href="https://github.com/pankajsaxena23">
+    <img src="https://img.shields.io/github/stars/pankajsaxena23?style=for-the-badge&logo=github&label=GitHub%20Stars" />
   </a>
 </p>
 
@@ -40,17 +40,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajsaxena23&show_icons=true&theme=default" />
-</p>
-
----
-
-## ⭐ Featured Repository
-
-<p align="center">
-  <a href="https://github.com/pankajsaxena23">
-    <img src="https://img.shields.io/github/stars/pankajsaxena23?affiliations=OWNER&style=for-the-badge&logo=github&label=GitHub%20Stars" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajsaxena23&show_icons=true&theme=default&cache_seconds=86400" />
 </p>
 
 ---
