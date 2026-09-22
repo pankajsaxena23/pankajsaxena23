@@ -27,13 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajsaxena23&show_icons=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 - GitHub: https://github.com/pankajsaxena23
 - Email: pankajsaxena.work23@gmail.com
