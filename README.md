@@ -29,7 +29,7 @@
 
 ## 🌐 Connect With Me
 - GitHub: https://github.com/pankajsaxena23
-- Email: pankajsaxena.work23@gmail.com
+- Email: pankaj2k24.27@gmail.com
 
 
 ---
